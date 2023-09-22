@@ -1,0 +1,11 @@
+#text .myclass1 {
+    padding: 30px;
+}
+#text .myclass2 {
+    padding: 60px;
+}
+#text .myclass3 {
+    text-align: right;
+    color: green;
+    padding: 28px;
+}

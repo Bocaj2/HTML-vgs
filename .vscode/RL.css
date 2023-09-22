@@ -1,0 +1,28 @@
+#text .overskrift{
+    color:red;
+    position: absolute;
+    top: 65px;
+    right: 600px;    
+    font-size:xx-large
+    
+}
+
+#text .RL-bilde{
+    position: absolute;
+right: 540px;
+}
+
+
+#text .foxers2{
+position: absolute;
+left: 1050px;
+bottom: 365px;
+}
+
+#text .lag-kl-dato{
+    position: absolute;
+    right: 350px;
+    top: 500px;
+    color: rgb(255, 0, 0);
+    
+}
